@@ -1,0 +1,11 @@
+C:\Users\pasha\OneDrive\Рабочий стол\ФП\Прикладное программирование\PZ\PZ_1\PZ_1\PZ_1\bin\Debug\PZ_1.exe.config
+C:\Users\pasha\OneDrive\Рабочий стол\ФП\Прикладное программирование\PZ\PZ_1\PZ_1\PZ_1\bin\Debug\PZ_1.exe
+C:\Users\pasha\OneDrive\Рабочий стол\ФП\Прикладное программирование\PZ\PZ_1\PZ_1\PZ_1\bin\Debug\PZ_1.pdb
+C:\Users\pasha\OneDrive\Рабочий стол\ФП\Прикладное программирование\PZ\PZ_1\PZ_1\PZ_1\obj\Debug\PZ_1.csproj.AssemblyReference.cache
+C:\Users\pasha\OneDrive\Рабочий стол\ФП\Прикладное программирование\PZ\PZ_1\PZ_1\PZ_1\obj\Debug\PZ_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\pasha\OneDrive\Рабочий стол\ФП\Прикладное программирование\PZ\PZ_1\PZ_1\PZ_1\obj\Debug\PZ_1.Form1.resources
+C:\Users\pasha\OneDrive\Рабочий стол\ФП\Прикладное программирование\PZ\PZ_1\PZ_1\PZ_1\obj\Debug\PZ_1.Properties.Resources.resources
+C:\Users\pasha\OneDrive\Рабочий стол\ФП\Прикладное программирование\PZ\PZ_1\PZ_1\PZ_1\obj\Debug\PZ_1.csproj.GenerateResource.cache
+C:\Users\pasha\OneDrive\Рабочий стол\ФП\Прикладное программирование\PZ\PZ_1\PZ_1\PZ_1\obj\Debug\PZ_1.csproj.CoreCompileInputs.cache
+C:\Users\pasha\OneDrive\Рабочий стол\ФП\Прикладное программирование\PZ\PZ_1\PZ_1\PZ_1\obj\Debug\PZ_1.exe
+C:\Users\pasha\OneDrive\Рабочий стол\ФП\Прикладное программирование\PZ\PZ_1\PZ_1\PZ_1\obj\Debug\PZ_1.pdb
